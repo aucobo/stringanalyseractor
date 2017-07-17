@@ -18,6 +18,7 @@ ENV GROUP_ID "stringanalyseractor"
 ENV CLIENT_ID "instance1"
 ENV AUTO_OFFSET_RESET "earliest"
 
+#processor
 ENV SEARCHSTRING "email"
 
 ENV JAVA_OPTS ""
