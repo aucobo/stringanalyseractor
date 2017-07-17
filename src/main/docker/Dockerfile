@@ -4,7 +4,8 @@ LABEL com.aucobo.name="aucobo-stringanalyseractor" \
             com.aucobo..description="analyses strings" \
             com.aucobo.url="https://www.aucobo.de" \
             com.aucobo.vendor="aucobo GmbH" \
-            com.aucobo.maintainer="fabian.peltzer@aucobo.de"
+            com.aucobo.maintainer="fabian.peltzer@aucobo.de" \
+            com.aucobo.type="actor"
 
 ENV LOGLEVEL "WARN"
 
